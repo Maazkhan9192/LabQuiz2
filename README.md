@@ -1,1 +1,1 @@
-# LabQuiz2
+# quiz2
